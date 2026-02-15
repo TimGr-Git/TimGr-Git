@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tim Gruber</h1>
 <h3 align="center">A passionate junior developer from Switzerland, aiming to become a full-stack developer.</h3>
 
-- 🔭 I’m currently working on **creating my own component library with typescipt and storybook..**
+- 🔭 I’m currently working on **creating my own Data visualization Webapp.**
 
-- 🌱 I’m currently learning **Storybook and Tailwind CSS**
+- 🌱 I’m currently learning **Typescript, Rect, Next.js and Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **cloud native projects**
 
